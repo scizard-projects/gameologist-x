@@ -1,0 +1,23 @@
+# Component Names
+
+- Standalone
+- Compact
+- Hybrid: Suggests a combination of two or more distinct things into a single entity.
+- Inline: Refers to something positioned within a line or fitting neatly within a space.
+- Synthesis: Refers to the combination of multiple things to form a new, more complex whole.
+- Fusion: Refers to the process of merging two or more things into a single entity.
+- Intermediary: Refers to something that acts as a link between two or more things.
+- Mezzo: Refers to a size or amount that is intermediate between two others.
+- Duality: Refers to the state of having two parts or aspects.
+- Combi: Refers to a combination of two or more things.
+- Synthetic: Refers to something made by combining or synthesizing multiple elements.
+- Essential
+- Standard
+- Regular
+- Universal
+- Core
+- Mainstream
+- Fundamental
+- Primary
+- Baseline
+- Common
